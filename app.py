@@ -22,10 +22,10 @@ webhook_dict = {
 
 # Best Buy - Nintendo
 
-"bb_neon_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"bb_gray_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"bb_animalcrossing_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"bb_ringfit": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
+"bb_neon_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"bb_gray_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"bb_animalcrossing_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"bb_ringfit": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
 
 # Best Buy - Webcams
 
@@ -35,16 +35,16 @@ webhook_dict = {
 
 # Target Nintendo
 
-"target_neon_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"target_gray_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"target_ringfit": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
+"target_neon_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"target_gray_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"target_ringfit": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
 
 # Walmart Nintendo
 
-"walmart_neon_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"walmart_gray_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"walmart_animalcrossing_switch": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc",
-"walmart_ringfit": "https://discordapp.com/api/webhooks/704744387615260784/HxNrljwTKMTBnRg5A7NuepkXZOLC-nZVq28xJPe6algexvunX0trPKgugEZbQ7SJB8sc"
+"walmart_neon_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"walmart_gray_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"walmart_animalcrossing_switch": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu",
+"walmart_ringfit": "https://discordapp.com/api/webhooks/704891256765022208/iXKaouZpwtWdW9vxqKp8OPlFSoCsICNnoAJqvjczYPKtfU6Y6tAhz3lfpP_Q6RefGsTu"
 }
 
 
